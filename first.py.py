@@ -1,0 +1,1 @@
+print("Hello my name is Penelope and I am 26 years old. I am excited to learn how to code as I have never coded before. this is all new to me and I am finding it challenging but exciting")
